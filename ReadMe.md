@@ -33,7 +33,7 @@ The installation process is similar to the original nnU-Net, with the addition o
    pip install -r requirements.txt
    ```
 
-The plan files in the nnU-Net will be automatically updated when you run the `training.ipynb` notebook.
+The plan files in the nnU-Net should be automatically updated when you run the `training.ipynb` notebook.
 
 ## Usage
 
